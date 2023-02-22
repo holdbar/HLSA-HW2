@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+es_data/*
+!es_data/.gitkeep
+mongodb_data/*
+!mongodb_data/.gitkeep
+grafana_data/*
+!grafana_data/.gitkeep
+influxdb_data/*
+!influxdb_data/.gitkeep
+elastic/*
+!elastic/.gitkeep
